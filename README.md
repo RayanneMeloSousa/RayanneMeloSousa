@@ -6,7 +6,7 @@
 Me chamo Rayanne Melo, comecei cursando Informática e hoje é minha paixão! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Além disso, também sou professora de inglês! É uma ótima combinação, hein. 😁
 
 
-I'm Rayanne Melo, I started studying IT and now it's my passion! I'm currently studyingSystems Analysis and Development at UNINTER. I'm also an English Teacher! It's a great combination, isn't it? 😁
+I'm Rayanne Melo, I started studying Information Technology and now it's my passion! I'm currently studying Systems Analysis and Development at UNINTER. I'm also an English Teacher! It's a great combination, isn't it? 😁
 
 ---
 

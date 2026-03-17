@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Rayanne Melo
 
-**`Desenvolvedora FullStack`**
-**`FullStack Developer`**
+**`Desenvolvedora Backend`**
+**`Backend Developer`**
 
 Me chamo Rayanne Melo, comecei cursando Informática e hoje programar é minha paixão! Atualmente, estou cursando Engenharia de Software na UNINTER. Além disso, também sou professora de inglês na Fisk! É uma ótima combinação, não? 😁
 

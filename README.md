@@ -63,7 +63,7 @@ I'm Rayanne Melo, I started studying Information Technology and now programming 
 <img
   align="left"
   alt="Agular" 
-  title="Git"
+  title="Agular"
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
@@ -71,7 +71,7 @@ I'm Rayanne Melo, I started studying Information Technology and now programming 
 <img
   align="left"
   alt="Adonis" 
-  title="Git"
+  title="Adonis"
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg"
@@ -80,7 +80,7 @@ I'm Rayanne Melo, I started studying Information Technology and now programming 
 <img
     align="left"
     alt="AWS" 
-    title="Git"
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
@@ -88,7 +88,7 @@ I'm Rayanne Melo, I started studying Information Technology and now programming 
 <img 
     align="left"
     alt="Node js" 
-    title="Git"
+    title="Node js"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
@@ -96,7 +96,7 @@ I'm Rayanne Melo, I started studying Information Technology and now programming 
 <img 
     align="left"
     alt="Next.js" 
-    title="Git"
+    title="Next.js"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 

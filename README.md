@@ -3,10 +3,10 @@
 **`Desenvolvedora FullStack`**
 **`FullStack Developer`**
 
-Me chamo Rayanne Melo, comecei cursando Informática e hoje é minha paixão! Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Além disso, também sou professora de inglês! É uma ótima combinação, hein. 😁
+Me chamo Rayanne Melo, comecei cursando Informática e hoje programar é minha paixão! Atualmente, estou cursando Engenharia de Software na UNINTER. Além disso, também sou professora de inglês na Fisk! É uma ótima combinação, não? 😁
 
 
-I'm Rayanne Melo, I started studying Information Technology and now it's my passion! I'm currently studying Systems Analysis and Development at UNINTER. I'm also an English Teacher! It's a great combination, isn't it? 😁
+I'm Rayanne Melo, I started studying Information Technology and now programming is my passion! I'm currently studying Software Engineering at UNINTER. I'm also an English Teacher at Fisk! It's a great combination, isn't it? 😁
 
 ---
 
